@@ -59,7 +59,7 @@ class GmailClient:
             print(f"Label '{label_name}' not found.")
         except HttpError as error:
             print(f'An error occurred while fetching labels: {error}')
-        return Nones
+        return None
 
     def find_body_part(self, parts):
         """
@@ -71,7 +71,7 @@ class GmailClient:
                 return part['body']['data']
             # If the part has its own 'parts', recurse into them
             if 'parts' in part:
-                data = find_body_part(part['parts'])
+                data = self.find_body_part(part['parts'])
                 if data:
                     return data
         # If no text/plain part is found after checking all parts
@@ -89,7 +89,7 @@ class GmailClient:
 
             # For multipart messages, the payload will have a 'parts' key.
             if 'parts' in payload:
-                data = find_body_part(payload['parts'])
+                data = self.find_body_part(payload['parts'])
             else:
                 # For single-part messages, the data is in the 'body' key.
                 data = payload.get('body', {}).get('data')
