@@ -1,0 +1,734 @@
+Please visit this URL to authorize this application: https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=1032997644755-c1c8fojm3rhahtf0us5jnhp0o7r0ofqr.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A62749%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fgmail.readonly&state=8HfeZP5eARFuZTmWIOyYLR80S5XsNj&access_type=offline
+Recent emails in your Inbox:
+From: Google <no-reply@accounts.google.com>
+Subject: Security alert
+Body: [image: Google]
+You allowed EmailSpamHam access to some of your Google Account data
+
+
+tejaaditya.g@gmail.com
+
+If you didn’t allow EmailSpamHam access to some of your Google Account
+data, someone else may be trying to access your Google Account data.
+
+Take a moment now to check your account activity and secure your account.
+Check activity
+<https://accounts.google.com/AccountChooser?Email=tejaaditya.g@gmail.com&continue=https://myaccount.google.com/alert/nt/1753556001000?rfn%3D127%26rfnc%3D1%26eid%3D5821884845039938215%26et%3D0>
+To make changes at any time to the access that EmailSpamHam has to your
+data, go to your Google Account
+<https://accounts.google.com/AccountChooser?Email=tejaaditya.g@gmail.com&continue=https://myaccount.google.com/connections/overview/AXgE0HNkzJdkBxugKjZ0soHMO8YfFhoDNbWnUggL3r7IlCCpEnfNt_224ltODX8fsXeWhuE1ZBYGP28LECWuzaXc2S_l?utm_source%3Dsec_alert%26utm_medium%3Demail_notification%26force_all%3Dtrue>
+You can also see security activity at
+https://myaccount.google.com/notifications
+You received this email to let you know about important changes to your
+Google Account and services.
+© 2025 Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA
+
+------------------------------
+From: LinkedIn <notifications-noreply@linkedin.com>
+Subject: You appeared in 63 searches
+Body: Tej, this is what you’ve missed on LinkedIn
+
+-----------------------------------------
+
+You were found by people from these companies
+
+ - Garmin
+ - Epic Games
+ - Treeline, Inc.
+ - AMK Group
+ - Upwork
+
+See all searches: https://www.linkedin.com/comm/me/search-appearances/?lipi=urn%3Ali%3Apage%3Aemail_email_notification_single_search_appearance_01%3BHupTadGhRmisW61zp%2BL2qg%3D%3D&midToken=AQF5xlm0n5b77A&midSig=0xJ88V02VeYHQ1&trk=eml-email_notification_single_search_appearance_01-search_appearance_card-0-see_more_insights_text&trkEmail=eml-email_notification_single_search_appearance_01-search_appearance_card-0-see_more_insights_text-null-cfd984~mdk893xo~uf-null-null&eid=cfd984-mdk893xo-uf&otpToken=MTUwMDFmZTQxMjI4YzFjN2IyMjQwNGVkNDMxZGUyYjc4Y2NlZDA0ODliYWM4NzYxNmNjNjA4NmM0YzUzNTVmM2Y0ZDBkN2U5NTBkNWI4ZTg1MWIyZjE4YTUwYjU0YzY2NWMzNTc2MmYwM2IwNjBiNjNiYjdmMzNhLDEsMQ%3D%3D
+  
+-----------------------------------------
+
+
+
+----------------------------------------
+
+This email was intended for Tej Gumaste (Astronaut @ Gemini | CS + Math @ KU)
+Learn why we included this: https://www.linkedin.com/help/linkedin/answer/4788?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_notification_single_search_appearance_01%3BHupTadGhRmisW61zp%2BL2qg%3D%3D&midToken=AQF5xlm0n5b77A&midSig=0xJ88V02VeYHQ1&trk=eml-email_notification_single_search_appearance_01-SecurityHelp-0-textfooterglimmer&trkEmail=eml-email_notification_single_search_appearance_01-SecurityHelp-0-textfooterglimmer-null-cfd984~mdk893xo~uf-null-null&eid=cfd984-mdk893xo-uf&otpToken=MTUwMDFmZTQxMjI4YzFjN2IyMjQwNGVkNDMxZGUyYjc4Y2NlZDA0ODliYWM4NzYxNmNjNjA4NmM0YzUzNTVmM2Y0ZDBkN2U5NTBkNWI4ZTg1MWIyZjE4YTUwYjU0YzY2NWMzNTc2MmYwM2IwNjBiNjNiYjdmMzNhLDEsMQ%3D%3D
+You are receiving LinkedIn notification emails.
+
+Unsubscribe: https://www.linkedin.com/comm/psettings/email-unsubscribe?lipi=urn%3Ali%3Apage%3Aemail_email_notification_single_search_appearance_01%3BHupTadGhRmisW61zp%2BL2qg%3D%3D&midToken=AQF5xlm0n5b77A&midSig=0xJ88V02VeYHQ1&trk=eml-email_notification_single_search_appearance_01-unsubscribe-0-textfooterglimmer&trkEmail=eml-email_notification_single_search_appearance_01-unsubscribe-0-textfooterglimmer-null-cfd984~mdk893xo~uf-null-null&eid=cfd984-mdk893xo-uf&loid=AQGqs4IM_HxCcwAAAZhGtk04pjZ5unL146-irvSsaz_iTBmSEqhYRXMrTpN1uclD4dV9tRQ__EUWYc6lG9X41M0c7Lknl2KBTNKh1148oXbBCAU
+Help: https://www.linkedin.com/help/linkedin/answer/67?lang=en&lipi=urn%3Ali%3Apage%3Aemail_email_notification_single_search_appearance_01%3BHupTadGhRmisW61zp%2BL2qg%3D%3D&midToken=AQF5xlm0n5b77A&midSig=0xJ88V02VeYHQ1&trk=eml-email_notification_single_search_appearance_01-help-0-textfooterglimmer&trkEmail=eml-email_notification_single_search_appearance_01-help-0-textfooterglimmer-null-cfd984~mdk893xo~uf-null-null&eid=cfd984-mdk893xo-uf&otpToken=MTUwMDFmZTQxMjI4YzFjN2IyMjQwNGVkNDMxZGUyYjc4Y2NlZDA0ODliYWM4NzYxNmNjNjA4NmM0YzUzNTVmM2Y0ZDBkN2U5NTBkNWI4ZTg1MWIyZjE4YTUwYjU0YzY2NWMzNTc2MmYwM2IwNjBiNjNiYjdmMzNhLDEsMQ%3D%3D
+
+© 2025 LinkedIn Corporation, 1zwnj000 West Maude Avenue, Sunnyvale, CA 94085.
+LinkedIn and the LinkedIn logo are registered trademarks of LinkedIn.
+------------------------------
+From: Discover Card <discover@services.discover.com>
+Subject: We've received your payment
+Body: 
+Discover
+
+https://discover.app.link/3p?%243p=e_rs&%24original_url=https%3A%2F%2Fportal.discover.com%2Fcustomersvcs%2FuniversalLogin%2Fac_main%3Flink%3D%2Fcardmembersvcs%2Fachome%2Fhomepage%3FselAcct&deeplink=linktohome&dms_VS_PARMS_qs&emailstat=clk&section=header		  
+Account ending in  3650
+------------------------------------------------------------
+Thanks for your payment
+------------------------------------------------------------
+
+Your Payment of  $9.20 posted to your account on July 25, 2025.
+
+
+Review Payment History
+
+https://discover.app.link/3p?%243p=e_rs&%24original_url=https%3A%2F%2Fportal.discover.com%2Fcustomersvcs%2FuniversalLogin%2Fac_main%3Flink%3D%2Fcardmembersvcs%2Fepay%2Fapp%2FpaymentHistory%3FEMAIL-TAG&deeplink=payhist&campaign=PYMTRECD&tags=DMSS&tags=PYMTRECD_CTA1&dms_VS_PARMS_qs&emailstat=clk&section=body
+
+----------------------------------------------------
+Add discover@services.discover.com to your address 
+book to ensure delivery of these e-mails. 
+
+See ways to help identify authentic Discover e-mails 
+by visiting us at www.discover.com/emailsecurity.
+----------------------------------------------------
+
+IMPORTANT INFORMATION
+
+This e-mail was sent to TEJAADITYA.G@GMAIL.COM 
+for account number ending with 3650.
+ 
+To update your e-mail address or view your account e-mail  
+preferences log in at:
+https://www.discovercard.com/cardmembersvcs/loginlogout/app/ac_main?link=misc/redirect/update_email.htm
+
+If you have any questions about your account, please visit our contact us page and we will be happy to assist you.
+https://www.discover.com/credit-cards/help-center/contact-us/?dms_VS_PARMS_qs&emailstat=clk&section=body
+
+Please do not reply to this e-mail as we are not able to respond to messages sent to this address.
+
+We respect your privacy.
+To view our privacy policy online,
+vist DIscover.com.
+
+https://www.discover.com/privacy-statement/credit-cards-privacy-policy.html?dms_VS_PARMS_qs&emailstat=clk&section=body
+
+DISCOVER, and other trademarks, logos and 
+service marks used in this e-mail are the trademarks of 
+Discover Financial Services or their respective third-party 
+owners.
+
+Discover Products Inc.
+P.O. Box 30666
+Salt Lake City, UT 84130 
+
+
+(c)2025 Discover Bank, Member FDIC
+
+
+PYMTRECD_A1_A1_A1
+------------------------------
+From: Discover Card <discover@services.discover.com>
+Subject: We've received your payment
+Body: 
+Discover
+
+https://discover.app.link/3p?%243p=e_rs&%24original_url=https%3A%2F%2Fportal.discover.com%2Fcustomersvcs%2FuniversalLogin%2Fac_main%3Flink%3D%2Fcardmembersvcs%2Fachome%2Fhomepage%3FselAcct&deeplink=linktohome&dms_VS_PARMS_qs&emailstat=clk&section=header		  
+Account ending in  3650
+------------------------------------------------------------
+Thanks for your payment
+------------------------------------------------------------
+
+Your Payment of  $10.54 posted to your account on July 25, 2025.
+
+
+Review Payment History
+
+https://discover.app.link/3p?%243p=e_rs&%24original_url=https%3A%2F%2Fportal.discover.com%2Fcustomersvcs%2FuniversalLogin%2Fac_main%3Flink%3D%2Fcardmembersvcs%2Fepay%2Fapp%2FpaymentHistory%3FEMAIL-TAG&deeplink=payhist&campaign=PYMTRECD&tags=DMSS&tags=PYMTRECD_CTA1&dms_VS_PARMS_qs&emailstat=clk&section=body
+
+----------------------------------------------------
+Add discover@services.discover.com to your address 
+book to ensure delivery of these e-mails. 
+
+See ways to help identify authentic Discover e-mails 
+by visiting us at www.discover.com/emailsecurity.
+----------------------------------------------------
+
+IMPORTANT INFORMATION
+
+This e-mail was sent to TEJAADITYA.G@GMAIL.COM 
+for account number ending with 3650.
+ 
+To update your e-mail address or view your account e-mail  
+preferences log in at:
+https://www.discovercard.com/cardmembersvcs/loginlogout/app/ac_main?link=misc/redirect/update_email.htm
+
+If you have any questions about your account, please visit our contact us page and we will be happy to assist you.
+https://www.discover.com/credit-cards/help-center/contact-us/?dms_VS_PARMS_qs&emailstat=clk&section=body
+
+Please do not reply to this e-mail as we are not able to respond to messages sent to this address.
+
+We respect your privacy.
+To view our privacy policy online,
+vist DIscover.com.
+
+https://www.discover.com/privacy-statement/credit-cards-privacy-policy.html?dms_VS_PARMS_qs&emailstat=clk&section=body
+
+DISCOVER, and other trademarks, logos and 
+service marks used in this e-mail are the trademarks of 
+Discover Financial Services or their respective third-party 
+owners.
+
+Discover Products Inc.
+P.O. Box 30666
+Salt Lake City, UT 84130 
+
+
+(c)2025 Discover Bank, Member FDIC
+
+
+PYMTRECD_A1_A1_A1
+------------------------------
+From: Gayatri G <gayatriga@gmail.com>
+Subject: Re: LIC Policy Details and Nominee Update Process
+Body: Dear Karan
+
+Reminder
+
+Pls advise current status on rectification of nominees for all 3 LIC
+policies.
+Appreciate your prompt response.
+
+Best Regards
+Gayatri G.
+
+On Fri, Jul 18, 2025 at 5:07 PM Gayatri G <gayatriga@gmail.com> wrote:
+
+> Dear Karan,
+>
+> Hope you're in receipt of my email below with requested rectification
+> already actioned by now.
+>
+> Kindly acknowledge this email and share updated nominee details for all 3
+> Policies / Statements.
+>
+> Thank you.
+>
+> Kind Regards,
+> Gayatri G.
+>
+> On Wed, Jul 9, 2025 at 1:47 PM Gayatri G <gayatriga@gmail.com> wrote:
+>
+>> Dear Karan
+>>
+>> For all 3 policies attached herewith, please update the currently
+>> mentioned nominee from all our records *to Mr. Tej Avinash Gumaste (DOB
+>> June 1, 2004),* as initially informed.
+>> Please share updated policies once Nominee details are corrected.
+>>
+>>
+>> Thank you.
+>>
+>> Best Regards
+>> Gayatri G
+>>
+>> ---------- Forwarded message ---------
+>> From: Karan Kamdi <servicing.ashok@cfsgroup.com>
+>> Date: Mon, Jul 7, 2025 at 4:51 PM
+>> Subject: LIC Policy Details and Nominee Update Process
+>> To: Gayatri G <gayatriga@gmail.com>
+>> Cc: Shilpa Shetty <shilpa.shetty@cfsgroup.com>
+>>
+>>
+>> Dear Ms Gayatri,
+>>
+>>
+>>
+>> As requested, please find attached the policy details for the LIC
+>> policies.
+>>
+>>
+>>
+>> As per LIC team, in cases where the nominee is below 18 years of age and
+>> no nominee is mentioned in the application, the nominee is defaulted to the
+>> father.
+>>
+>>
+>>
+>> However, you may request a change of nominee in the policy. To proceed
+>> with this, kindly send us a written request from your registered email ID,
+>> asking to update or remove the currently mentioned nominee from all our
+>> records.
+>>
+>>
+>>
+>> Please let us know if you need any assistance in this process.
+>>
+>>
+>>
+>
+
+------------------------------
+From: Gayatri G <gayatriga@gmail.com>
+Subject: Re: Please contact urgently
+Body: Dear Neeraj,
+
+Thank you for sharing the IDBI statements.
+
+It is evident from these statements that no efforts were taken to settle
+the EMIs by Avinash subsequent to the last EMI payment processed from my
+end.
+
+Kindly find attached and below summary of payments done from my end towards
+flat B 604 Swiss County Thergaon, Pune, which are self explanatory. Request
+you to keep the balance amount recovered by IDBI bank under a fixed deposit
+till it is disbursed to me.
+
+[image: image.png]
+
+For any additional details / information required in this context, kindly
+let me know. Happy to provide all support.
+
+Thank you for all timely guidance and assistance.
+
+Best Regards,
+Gayatri G.
++971-56-1746747
+
+Encl.: Summary of payments and payment receipt by the builder.
+
+On Wed, Jul 23, 2025 at 4:09 PM Singh Neeraj <singh.neeraj@idbi.co.in>
+wrote:
+
+> Dear mam
+> Statement attached.
+> ------------------------------
+> *From:* Gayatri G <gayatriga@gmail.com>
+> *Sent:* Thursday, July 17, 2025 7:18 PM
+> *To:* Singh Neeraj <singh.neeraj@idbi.co.in>; SANJAY VALECHHA <
+> sanjay_valechha@idbi.co.in>
+> *Cc:* Tej Gumaste <tejaaditya.g@gmail.com>
+> *Subject:* Re: Please contact urgently
+>
+>
+> *CAUTION:* This mail originates from outside our organization. Please do
+> not click on links or open attachments from senders you do not trust.
+>
+> Dear Neeraj,
+>
+> Hope this email finds you well.
+> Kindly acknowledge receipt of my email below and provide the requested
+> statement at the earliest.
+>
+> Many thanks for your usual kind assistance.
+>
+> Best Regards,
+> Gayatri G
+>
+> On Tue, Jul 15, 2025 at 3:36 PM Gayatri G <gayatriga@gmail.com> wrote:
+>
+> Dear Neeraj,
+>
+> Thank you for your email followed by a detailed call along with Sanjay Sir.
+>
+> As stated during the call, I have never given any consent to IDBI to sell
+> our jointly owned property in Swiss County B 604 as that was purchased for
+> and under my kids' name. It is unfortunate that, with negligence and
+> deliberate non-payments from Avinash's end, the property has become NPA.
+>
+> The IDBI EMIs and Swiss County maintenance were duly paid from my end on a
+> regular basis until it came to our attention that Avinash has solely rented
+> out the property and deliberately not paying any maintenance and EMI
+> payments.
+>
+> To identify genuine payments done, request you to kindly share a statement
+> of the IDBI loan account from the initial payment
+>
+> Appreciate your continued kind support and understanding.
+>
+> Look forward to receiving the IDBI Loan account statement at the earliest.
+>
+> Many thanks.
+>
+> Kind regards,
+> CS Gayatri G
+>
+>
+>
+> On Tue, Jul 1, 2025 at 3:57 PM Singh Neeraj <singh.neeraj@idbi.co.in>
+> wrote:
+>
+> Dear sir/mam
+> After selling your property in auction, we have received more amount
+> w.r.t. Your loan amount.
+> Now bank wants to return the excess amount both of you.
+> Kindly visit both of you our goregoan office,.
+> IDBI BANK
+> Rustomjee O- Zone Shop No. 7, Laxmi Singh Complex Near Goregaon Flyover,
+> Mtnl, Office Goregaon (W)
+>
+> Kindly share your mobile number.
+>
+>
+> Regards
+> Neeraj Singh
+> RRO West Mumbai
+> Sol 691
+> 9953581483
+>
+>
+> ------------------------------
+> *From:* Avinash Gumaste <gumaste.avinash6@gmail.com>
+> *Sent:* Tuesday, July 1, 2025 5:14 PM
+> *To:* Singh Neeraj <singh.neeraj@idbi.co.in>
+> *Cc:* Gayatri G <gayatriga@gmail.com>
+> *Subject:* Re: Please contact urgently
+>
+>
+> *CAUTION:* This mail originates from outside our organization. Please do
+> not click on links or open attachments from senders you do not trust.
+>
+> Dear Neeraj
+>
+> I had informed IDBI and Police that I want to Surrender the property,
+> hence please send letter will sign it.
+>
+> Gayatri is legal wife, please contact her for payment.
+>
+> Gayatri has tipped IDBI that I will be coming to India it seems.
+>
+> Hence please send surrender letter will sign it,  other signature you will
+> have to co-ordinate with  gayatri on +97156 1746747
+>
+> Hence co-ordinate with her, my part ready to sign
+>
+> Regards
+> Avinash
+>
+> On Thu, Jun 26, 2025 at 3:51 PM Singh Neeraj <singh.neeraj@idbi.co.in>
+> wrote:
+>
+>
+>
+> Regards
+> Neeraj Singh
+> RRO West Mumbai
+> Sol 691
+> 9953581483
+>
+>
+>
+> * Disclaimer <https://www.idbibank.in/email-disclaimer.html>*
+>
+>
+>
+> --
+> Dear     ,
+>
+>
+> Regards
+> Avinash Gumaste
+>
+> * Disclaimer <https://www.idbibank.in/email-disclaimer.html>*
+>
+>
+> * Disclaimer <https://www.idbibank.in/email-disclaimer.html>*
+>
+
+------------------------------
+From: Gayatri G <gayatriga@gmail.com>
+Subject: Request for Removal of Joint Account Holder’s Name
+Body: *To,*
+
+The Branch Manager
+
+State Bank of India
+
+Mulund East Branch
+
+Mumbai
+
+
+
+*Kind Attention: Mr. Chirag*
+
+
+
+Dear Sir,
+
+
+
+*Subject:* Request for Removal of Deceased Joint Account Holder’s Name
+
+
+Hope this email finds you well.
+
+
+
+This is Mrs. Gayatri Avinash Gumaste, joint holder of bank account no.
+37036985551 held jointly with my late father, Mr. Gopal Vishnu Kulkarni.
+
+
+
+I am writing to formally request removal of the name of my late father,
+Gopal Vishnu Kulkarni from our joint account held at your branch. The
+details of the account are as follows:
+
+
+
+·        *Account Holder Names:* Mr. Gopal Vishnu Kulkarni and Mrs. Gayatri
+Avinash Gumaste
+
+·        *Account Number:* 37036985551
+
+·        *Type of Account:* Savings Account
+
+I hereby enclose the following documents to substantiate this request.
+
+1.      Scanned copy of the original death certificate
+
+2.      Scanned copy of the first page of the passbook
+
+3.      SBI Multi-purpose form to delete name of the deceased joint account
+holder.
+
+I kindly request you to take the necessary steps to update the account
+records and remove my father’s name from the joint account accordingly.
+
+
+All other supporting documents have been shared / submitted by my mother,
+Mrs. Supriya Gopal Kulkarni during her in person visit to the Mulund branch.
+
+
+
+Once again, thank you for your kind cooperation and support during this
+time.
+
+
+
+Yours sincerely,
+
+Gayatri Avinash Gumaste
+
+
+
+Encl.: As above.
+
+------------------------------
+From: "Flex + 2502 Hawks Pointe" <rentportal@alerts.getflex.com>
+Subject: Tej, Flex your August rent
+Body: 
+
+
+
+
+
+
+
+Hi Tej,
+
+ We’ve got good news to share! You have access to Flex, thanks to 2502 Hawks 
+Pointe. That means you have access to a smarter, more flexible way to pay rent. 
+Whether you need a little extra wiggle room or just want to break things up, 
+we’ve got you.
+
+With Flex, you can: 
+
+
+ *  Improve your cash flow with smaller, manageable payments
+ * Reduce stress knowing your rent is paid in full, on time
+ * Build your credit history with every payment made through Flex
+
+ See your new option here <https://onboarding.getflex.com/?property_name=2502 
+Hawks Pointe>.
+
+Sign up early and make rent one less thing to worry about.
+
+Sincerely,
+The Flex Team
+
+See your new option  <https://onboarding.getflex.com/?property_name=2502 Hawks 
+Pointe>
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ⓒ 2025, Flexible Finance Brokering, Inc., 228 Park Ave S #75995 New York, NY 
+10003-1502
+
+
+
+Flexible Finance, Inc. (“Flex”) is a financial technology company, not a bank. 
+All lines of credit, banking services, and payment transmissions are offered by 
+Lead Bank. An application and credit assessment are required for approval. 
+Credit line amounts vary based on eligibility (graphics are illustrative only); 
+to access a credit line, you are required to make timely payments each month. 
+Unsecured lines of credit are provided for a recurring monthly membership fee 
+of $14.99 at 0% APR. A bill payment fee of 1% of your total rent is also 
+charged when you pay your rent using the Flex app (additional card processing 
+fee applies when using a credit card). Memberships automatically renew until 
+canceled. See your offer for more details. Positive rent payment history and 
+information about your line of credit may be reported to one or more national 
+credit bureaus. Terms and conditions apply. Brokering activities are performed 
+by Flexible Finance Brokering, Inc.
+
+
+
+Licenses <https://getflex.com/licenses/>
+Flexible Finance Brokering, Inc., Nationwide Multistate Licensing System 
+(“NMLS”) ID #2599800 Flexible Finance Servicing, Inc., NMLS ID #2256673
+
+
+
+
+
+
+
+Terms & Conditions 
+<https://links.getflex.com/u/click?_t=d4d8d774d06345fbb36f516ab2f01f1b&_m=ZnpX0N7MqIMu17GX1HJuAuDabJ9ptZup&_e=9aCzMx39nKEnUfUFoZGMTVR8rVkLmffoQ0LQXJ5wQd6gpOXRJa09B_lmn9wmyrQEeSvbpSMmqeod3Met0bZcGLBG3FXjgdjx1WUdtCYNXJWmMKq-tWfiISays-FhaYcaVYVlO6C2SPrsuLKey-on95pcrkzYxOjt6jljpS8tEDqpWnxthUE13eBqpOU7y90H0MTw0Ybn5JEIfsJ6ab6rjQ%3D%3D>
+ |Privacy Policy 
+<https://links.getflex.com/u/click?_t=d4d8d774d06345fbb36f516ab2f01f1b&_m=ZnpX0N7MqIMu17GX1HJuAuDabJ9ptZup&_e=9aCzMx39nKEnUfUFoZGMTVsbtLpV_B3LyMVHqA7D5taZuXdolwxfKSgj3ndFwJ69RCZ5x18qfa8S-AxYrPq_1ENX_hgPjEGjqypf4mjZ-zYfNEdfH5ubzpVq1zndP_gsXNK7IqaIcXc-l7tdCanhsmT_t1mJyDev-IEyitOJlTsm7uKPR0NQ8a64elNPUOlGUNLtdSx71xr7DMDlZXWYMg%3D%3D>
+
+Unsubscribe 
+<https://links.getflex.com/s/u/g8vZagkiepeqtCdu6kdsEcduAfWxZ_-DA79vrA2_HytWuawO2TQGq1HDnU7iTKqHIWVXg4gPojLKx9T-gHZfVe04RNHHIK2FwOO7Oki5lC9mnJK9dqltSP8puZn5yMq-Wyv9TIXo9_-z6n_gf6PM88Dg50ycRv61kC4Be5_Hu2I0EFAVQ6Ib1JipocsQdf6W-83E-onB-wAKaPOcftZMiLv0go9RcHsn60Ig/w9oPHEZVhchPTeCgRpuCYyTG8QCbnsdP/11>
+
+
+
+------------------------------
+From: Discover Card <discover@services.discover.com>
+Subject: Your Scheduled Payment
+Body:  
+Discover
+
+https://discover.app.link/3p?%243p=e_rs&%24original_url=https%3A%2F%2Fportal.discover.com%2Fcustomersvcs%2FuniversalLogin%2Fac_main%3Flink%3D%2Fcardmembersvcs%2Fachome%2Fhomepage%3FselAcct&deeplink=linktohome&dms_VS_PARMS_qs&emailstat=clk&section=header		  
+Account ending in  3650 =======================================================
+
+TEJ GUMASTE, 
+your online Discover card payment is scheduled
+
+=======================================================
+
+Here's the info we'll be using for your payment.
+
+Payment Info
+ 
+Total Amount: xsl:value-of select="TOTAL_AMOUNT"/> 
+Order/Confirmation Number: 03RY-H6J6-G4R4
+=======================================================
+
+Bank Account  
+ 
+Bank of America, NA: 
+Account ending in 
+
+Payment Posting Date: 07/25/25
+Amount: $9.20
+=======================================================
+
+Cashback Bonus
+   
+Redemption Payment Posting Date:: 07/25/25 
+Amount: $10.54
+=======================================================
+
+All Cashback Bonus Redemption payments are final and will be immediately 
+withdrawn from your Cashback Bonus balance once confirmed.
+
+Want to change your bank payment info or your e-mail address?
+
+Log In
+https://card.discover.com/cardmembersvcs/personalprofile/pp/MyProfilePage
+ 
+----------------------------------------------------
+Add discover@services.discover.com to your address 
+book to ensure delivery of these e-mails.
+
+See ways to help identify authentic Discover e-mails 
+by visiting us at www.discover.com/emailsecurity.
+----------------------------------------------------
+
+IMPORTANT INFORMATION
+
+This e-mail was sent to TEJAADITYA.G@GMAIL.COM 
+for account number ending with 3650.
+ 
+
+Log in update your e-mail address or view your account e-mail  
+preferences log in at:
+https://www.discovercard.com/cardmembersvcs/loginlogout/app/ac_main?link=misc/redirect/update_email.htm
+
+If you have any questions about your account, please visit our contact us page and we will be happy to assist you.
+https://www.discover.com/credit-cards/help-center/contact-us/?dms_VS_PARMS_qs&emailstat=clk&section=body
+
+Please do not reply to this e-mail as we are not able to respond to messages sent to this address.
+
+
+ 
+https://www.discover.com/privacy-statement/credit-cards-privacy-policy.html?dms_VS_PARMS_qs&emailstat=clk&section=body
+
+DISCOVER, and other trademarks, logos and 
+service marks used in this e-mail are the trademarks of 
+Discover Financial Services or their respective third-party 
+owners.
+
+Discover Bank
+P.O. Box 30666
+Salt Lake City, UT 84130 
+
+
+(c)2025 Discover Bank, Member FDIC
+
+
+TRPWBNKCBB_A1_ZZ_ZZ
+------------------------------
+From: Evergy <info@information.evergy.com>
+Subject: Start Personalizing Your Account Right Now
+Body: *  .moz-text-html .mj-column-per-100 {    width: 100% !important;    max-width: 100%;   }   .moz-text-html .mj-column-per-85 {    width: 85% !important;    max-width: 85%;   }   .moz-text-html .mj-column-per-75 {    width: 75% !important;    max-width: 75%;   }  .moz-text-html .mj-column-per-70 {    width: 70% !important;    max-width: 70%;   }   .moz-text-html .mj-column-per-50 {    width: 50% !important;    max-width: 50%;   }  .moz-text-html .mj-column-per-30 {    width: 30% !important;    max-width: 30%;   }   
+
+"Evergy" <https://www.evergy.com/?elqTrackId=ee7839d3302d459ab67ddae8ef5c75df&elq=6e5386f5803940b3b17b332fe09a2379&elqaid=1489&elqat=1&elqCampaignId=1471&elqak=8AF5D73E7FEEA9CC45B64086061FD67169A52E9E9690A371A3F07ACE083A1D2AD9EF>                                                 
+
+
+
+
+"Welcome to the neighborhood" <https://www.evergy.com/registration?utm_medium=email&utm_source=welcome-journey&utm_campaign=brand&utm_term=2days&utm_content=newcust-homeimg-day2&&elqTrackId=22e722052c13409b99e9861ef3a4ac54&elq=6e5386f5803940b3b17b332fe09a2379&elqaid=1489&elqat=1&elqCampaignId=1471&elqcst=272&elqcsid=1620&elqak=8AF5095EB5B16B9EF1FBB823B3F2B41A271D2E9E9690A371A3F07ACE083A1D2AD9EF>                                                 
+
+ 
+
+Welcome to the neighborhood
+
+Personalize Your Account <http://app.energysolutions.evergy.com/e/er?s=1739717246&lid=3523&elqTrackId=ad7df87b8a694f6c9fd61be0f1e39e08&elq=6e5386f5803940b3b17b332fe09a2379&elqaid=1489&elqat=1&elqcst=272&elqcsid=1666&elqak=8AF5CBC49EBD53C1A8F38F665807D7B0E06F2E9E9690A371A3F07ACE083A1D2AD9EF>                                                  
+
+We're so glad you're here.
+
+We know you count on us for safe and affordable power. That’s a big responsibility. And we take it seriously. But we also care that our service fits your life.
+
+There are so many ways to personalize your experience with us. Once you've set up your online account, you can set up your payment preferences, get custom energy-saving tips for your home, check your usage and more.
+
+ 
+
+Nice progress!
+Finish personalizing your account.
+
+Next step: Complete your home profile
+
+"20% progress bar"                                                                                     
+
+Keep Going <https://www.evergy.com/ma/energy-analyzer/energy-analyzer/survey?elqTrackId=35d2a3e291314184b935a9d56ef9286a&elq=6e5386f5803940b3b17b332fe09a2379&elqaid=1489&elqat=1&elqCampaignId=1471&elqcst=272&elqcsid=2829&elqak=8AF509D4AE681615CD749844BA2455274C852E9E9690A371A3F07ACE083A1D2AD9EF>                                                                                      
+
+ 
+
+
+"Image of a mobile phone icon with Evergy logo inside and a banner that reads "Download the Evergy app""
+"YOUtility Company" <https://www.evergy.com/about-evergy/mobile-app?utm_medium=email&utm_source=footer&utm_campaign=&utm_content=res-contact-emfooter&elqTrackId=04f083acd4fb4299b8d34f66cb684a57&elq=6e5386f5803940b3b17b332fe09a2379&elqaid=1489&elqat=1&elqCampaignId=1471&elqak=8AF5305D9AFE46DB9ACF67A9BB7A670CDFF92E9E9690A371A3F07ACE083A1D2AD9EF>
+
+"facebook" <http://app.energysolutions.evergy.com/e/er?s=1739717246&lid=564&elqTrackId=6fec4230d1554cafb6476fe07d70626e&elq=6e5386f5803940b3b17b332fe09a2379&elqaid=1489&elqat=1&elqak=8AF51B29EE7FF0C815FFE0A53DF599F0A6112E9E9690A371A3F07ACE083A1D2AD9EF>                                                                             "X (previously Twitter)" <http://app.energysolutions.evergy.com/e/er?s=1739717246&lid=563&elqTrackId=f6b81e9736a946c9ad5ced9cc74b5735&elq=6e5386f5803940b3b17b332fe09a2379&elqaid=1489&elqat=1&elqak=8AF54B23DFBFA3F0FC08A0DB517396B240FB2E9E9690A371A3F07ACE083A1D2AD9EF>                                                                             "youtube" <http://app.energysolutions.evergy.com/e/er?s=1739717246&lid=562&elqTrackId=8b3a8ad417f448709b92f55b330569c8&elq=6e5386f5803940b3b17b332fe09a2379&elqaid=1489&elqat=1&elqak=8AF5D770AA77833A68E733C9006680B8EA522E9E9690A371A3F07ACE083A1D2AD9EF>                                                                             "linkedin" <http://app.energysolutions.evergy.com/e/er?s=1739717246&lid=561&elqTrackId=d9790bd1234244e98d44a6963d2f3632&elq=6e5386f5803940b3b17b332fe09a2379&elqaid=1489&elqat=1&elqak=8AF5C5FEBC10E7CD801D316CC8E4180816342E9E9690A371A3F07ACE083A1D2AD9EF>                                                                         
+
+This email was sent to: tejaaditya.g@gmail.com
+This email was sent by: Evergy, Inc., P.O. Box 418679, Kansas City, MO 64141-9679                                     
+
+You are receiving this email as a service to your Evergy account. If you no longer wish to receive service emails like this message, billing/payment notifications or company news updates, please modify your preferences or unsubscribe here <http://energysolutions.evergy.com/subscribe?elqTrackId=e18fd8e43da941a5872f8b2ee2f04412&elq=6e5386f5803940b3b17b332fe09a2379&elqaid=1489&elqat=1&elqCampaignId=1471&elqak=8AF5D22D29BE58EB579CDB528E61A76428ED2E9E9690A371A3F07ACE083A1D2AD9EF>.
+
+Contact Us <http://app.energysolutions.evergy.com/e/er?s=1739717246&lid=951&elqTrackId=15a5e00a00eb4ff994a9e2a317742863&elq=6e5386f5803940b3b17b332fe09a2379&elqaid=1489&elqat=1&elqak=8AF52E70675A4434F8CDF75ACED59A342B512E9E9690A371A3F07ACE083A1D2AD9EF> | Privacy Policy <http://app.energysolutions.evergy.com/e/er?s=1739717246&lid=950&elqTrackId=6d43e56abd284afa945b474c2255d0a9&elq=6e5386f5803940b3b17b332fe09a2379&elqaid=1489&elqat=1&elqak=8AF5DCB00325DA2EF8E643EBEBF3564691BA2E9E9690A371A3F07ACE083A1D2AD9EF> | Accessibility <http://app.energysolutions.evergy.com/e/er?s=1739717246&lid=1950&elqTrackId=3dee5a15c46640199c1794192f48e1ec&elq=6e5386f5803940b3b17b332fe09a2379&elqaid=1489&elqat=1&elqak=8AF5AC4FE5A7A9C4917BC579C31B2643F83D2E9E9690A371A3F07ACE083A1D2AD9EF> | Evergy.com <http://app.energysolutions.evergy.com/e/er?s=1739717246&lid=1949&elqTrackId=6fa0fd1f0e654216a9d9d8b9a600923e&elq=6e5386f5803940b3b17b332fe09a2379&elqaid=1489&elqat=1&elqak=8AF59EB0255D57F120885DC554BEFED993DE2E9E9690A371A3F07ACE083A1D2AD9EF>
+
+© 2025 Evergy, Inc. All rights reserved.
+
+
+------------------------------
