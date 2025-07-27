@@ -45,3 +45,4 @@ next-env.d.ts
 /server/*.json
 gmail_token.json
 token.json
+server/__pycache__/
