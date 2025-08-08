@@ -13,7 +13,7 @@ export async function GET(request: NextRequest) {
         return NextResponse.json({ payload: data, status: 200 })
     } catch (error) {
         console.log("Error occured: ", error)
-
+        NextResponse.json({status: 500, payload: error})
     }
 
 }
